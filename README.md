@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Welcome to the BroKnight webpage!
 
-You can use the [editor on GitHub](https://github.com/Broknight250/BroKnight/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+(Beware, the bunnys took it over.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here, we are intrested in life, wonders, ideas, games, and more.
+We also talk about adventures in code, as well as the places we go!
 
-### Markdown
+as well as...
+## Bunnys!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. cute!
+2. adorable!
+3. lovable!
+And the list continues on and on...
 
-```markdown
-Syntax highlighted code block
+My discord server "bunny love" can be reached at https://discord.gg/cN2VYF
+Again! https://discord.gg/cN2VYFhttps://discord.gg/cN2VYFhttps://discord.gg/cN2VYF
+!!!
 
-# Header 1
-## Header 2
-### Header 3
+Learn to love bunnys. They are essential to life!
 
-- Bulleted
-- List
+  ~Live Happy!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Broknight250/BroKnight/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    Bunny
+    Bunnys
+    BroKnight
